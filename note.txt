@@ -1,0 +1,10 @@
+Positioning simply means placing a component in a prescribed place on your website.
+1. Static - The exact position that your component already possess.
+2. Fixed - This will fix your component to a particular place on your website.
+3. Sticky - your page will scroll to the component you gave a sticky value and then the sticky component will be fixed
+4. Absolute
+5. Relative
+
+
+Co-ordinates 
+top right bottom and left
